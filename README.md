@@ -17,6 +17,7 @@
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
   <a href="https://www.java.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://installc.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+   <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://angular.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
